@@ -25,7 +25,6 @@ Java Full Stack Developer Intern | Fresher
 <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
 
 ---
-
 ### 🛠️ Tools I Use
 <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA"/> &nbsp;
 <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse"/> &nbsp;
@@ -38,6 +37,7 @@ Java Full Stack Developer Intern | Fresher
 <img width="48" height="48" src="https://img.icons8.com/color/48/gemini-ai.png" alt="gemini-ai"/>
 
 ---
+####  💻 Real Time Projects
 
 #### 💰 [Personal Finance Manager (PFM)](https://github.com/arjunvedha25-glitch/PFM)
 *A financial management engine that ingests, normalizes, and categorizes incoming banking feeds in real time while generating structured spending analytics and paginated transaction ledger reports.*
