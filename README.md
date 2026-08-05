@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋 It's me J. Arjun Kumar
 
-<!--
-**arjunvedha25-glitch/arjunvedha25-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Full Stack Developer Intern | Fresher
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" height="250" align="right">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Passionate Java Full Stack Developer dedicated to building scalable web applications and seamless end-to-end user experiences.
+- 🎓 BCA graduate proficient in core Object-Oriented Programming, relational databases, and modern frontend frameworks.
+- 🔭 Knowledge on building full-stack web applications and refining backend architectures.
+- 🌱 Currently expanding my depth in **Spring Boot microservices**, **REST APIs**, and advanced database optimization.
+
+### Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjun-kumar-j-7b2261288)
+
+---
+
+### 💻 I Code In
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
+
+---
+
+### 🛠️ Tools I Use
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="DataGrip" title="DataGrip"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/> &nbsp;
+<img height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman"/> &nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" title="Maven"/> &nbsp;
+<img width="48" height="48" src="https://img.icons8.com/color/48/gemini-ai.png" alt="gemini-ai"/>
+
+---
