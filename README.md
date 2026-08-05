@@ -38,3 +38,13 @@ Java Full Stack Developer Intern | Fresher
 <img width="48" height="48" src="https://img.icons8.com/color/48/gemini-ai.png" alt="gemini-ai"/>
 
 ---
+
+#### 💰 [Personal Finance Manager (PFM)](https://github.com/arjunvedha25-glitch/PFM)
+*A financial management engine that ingests, normalizes, and categorizes incoming banking feeds in real time while generating structured spending analytics and paginated transaction ledger reports.*
+* **Tech Stack:** Java, Spring Boot, MySQL, REST APIs, HTML/CSS/JavaScript
+* **Key Features:** Features real-time banking transaction ingestion and automated categorization, dynamic threshold monitoring with budget breach alerts, high-precision balance processing, and fast paginated historical ledger report generation.
+
+#### 📄 [Invoice Generator System](https://github.com/arjunvedha25-glitch/Invoice-Generator)
+*A secure full-stack invoice generator and audit ledger system built with Spring Boot, JWT authentication, and a React frontend.*
+* **Tech Stack:** Java, Spring Boot, MySQL, React / HTML/CSS, Bootstrap
+* **Key Features:** JWT-authenticated role-based access control (RBAC), user-isolated invoice management, and centralized admin status approval workflows.
