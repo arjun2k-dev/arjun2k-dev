@@ -1,13 +1,11 @@
 ## Hi there 👋 It's me J. Arjun Kumar
 
 Java Full Stack Developer Intern | Fresher
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="250" align="right">
-
-
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="230" align="right">
 - 🚀 Passionate Java Full Stack Developer dedicated to building scalable web applications and seamless end-to-end user experiences.
 - 🎓 BCA graduate proficient in core Object-Oriented Programming, relational databases, and modern frontend frameworks.
 - 🔭 Knowledge on building full-stack web applications and refining backend architectures.
-- 🌱 Currently expanding my depth in **Spring Boot microservices**, **REST APIs**, and advanced database optimization.
+- 🌱 Currently expanding my depth in **Spring Boot microservices**, **REST APIs**,and advanced database optimization.
 
 ### Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjun-kumar-j-7b2261288)
