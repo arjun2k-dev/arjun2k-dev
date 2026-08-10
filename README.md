@@ -38,7 +38,7 @@ Java Full Stack Developer Intern | Fresher
 ####  💻 Real Time Projects
 
 
-#### 📄 [Invoice Generator System](https://github.com/arjunvedha25-glitch/Invoice-Generator)
+#### 📄 [Enterprise Invoice Generator & Ledger Engine](https://github.com/arjunvedha25-glitch/Invoice-Generator)
 *A secure full-stack invoice generator and audit ledger system built with Spring Boot, JWT authentication, and a React frontend.*
 * **Tech Stack:** Java, Spring Boot, MySQL, React / HTML/CSS, Bootstrap
 * **Key Features:** JWT-Authenticated role-based access control (RBAC), user-isolated invoice management, and centralized admin status approval workflows.
